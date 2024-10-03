@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727680567 source:/home/saul/C++/Projects/BankAccounts/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+
+1727679345 /home/saul/C++/Projects/BankAccounts/dataClient.h
+	<string>
+	<cstring>
+
